@@ -1,10 +1,10 @@
-<h1>🚀 SavePass</h1>
-<p> O projeto em questão está baseado em um aplicativo que visa fazer o gerênciamento de canais de Twitch. Nesse desafio pela Rocketseat no treinamento de React-native do Ignite
-eu tive que desenvolver o Login social com a api da Twitch. </p>
+<h1>🚀 Stream.data</h1>
+<p> O projeto em questão está baseado em um aplicativo que visa fazer o gerênciamento de canais de stream. Nesse desafio pela Rocketseat no treinamento de React-native do Ignite, eu tive que desenvolver o Login social com a api da Twitch. </p>
 
 <h2>Design:</h2>
 https://www.figma.com/file/6hIt5i6jb6loRT5fLKkZcj/stream.data-Copy?node-id=1%3A131
 
+<img width="679" alt="Captura de Tela 2021-08-19 às 10 09 47" src="https://user-images.githubusercontent.com/7297243/130074638-907e629e-51be-4112-a85e-4c63b55056ff.png">
 
 
 
