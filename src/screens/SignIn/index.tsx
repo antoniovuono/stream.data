@@ -65,14 +65,14 @@ export function SignIn() {
             o mundo da Twitch
           </Description>
 
-          {
+
             <SignInButton onPress={handleSignIn}>
 
               { isLoggingIn === true ? 
               
             <SignInButtonIcon>
 
-              <ActivityIndicator size={20} color={theme.colors.white} /> Entrando . . .
+              <ActivityIndicator size={20} color={theme.colors.white} /> 
 
             </SignInButtonIcon>
               :
@@ -82,7 +82,7 @@ export function SignIn() {
             </SignInButtonText>
                }
           </SignInButton>
-           }
+           
         </LoginInfo>
       </Content>
 
