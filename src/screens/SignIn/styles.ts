@@ -69,7 +69,6 @@ export const SignInButtonIcon = styled.View`
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
 
-  justify-content: space-between;
 `;
 
 export const SignInButtonText = styled.Text`
