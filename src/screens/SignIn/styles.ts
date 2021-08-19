@@ -58,6 +58,7 @@ export const SignInButton = styled(RectButton)`
   justify-content: center;
   align-items: center;
   flex-direction: row;
+  height: 56px;
 
   border-radius: 5px;
 `;
@@ -67,6 +68,8 @@ export const SignInButtonIcon = styled.View`
   background-color: ${props => props.theme.colors.purple_darker};
   border-top-left-radius: 5px;
   border-bottom-left-radius: 5px;
+
+  justify-content: space-between;
 `;
 
 export const SignInButtonText = styled.Text`
