@@ -20,7 +20,7 @@ https://www.figma.com/file/6hIt5i6jb6loRT5fLKkZcj/stream.data-Copy?node-id=1%3A1
 </ul>
 
 <h2>Rodando a aplicação:</h2>
-<p> Para rodar a api na sua máquina, basta seguir os seguintes passos... </p>
+<p> Para rodar o aplicativo na sua máquina, basta seguir os seguintes passos... </p>
 
    <ul> 
     <li><b>Clonar o repositório na pasta desejada:</li></b>
